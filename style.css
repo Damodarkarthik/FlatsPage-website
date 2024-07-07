@@ -1,0 +1,109 @@
+.flats-list-home-page {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 125vh;
+    background-size: cover;
+}
+
+.home-page-card {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.home-page-card-heading {
+    color: #f19116;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "Bree Serif";
+}
+
+.home-page-card-description {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: "Bree Serif";
+}
+
+.button1 {
+    color: #ffffff;
+    background-color: #f19116;
+    font-family: "Roboto";
+    font-size: 14px;
+    height: 32px;
+    width: 85px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.flats-list-bg-container {
+    background-color: #222222;
+    padding: 10px;
+}
+
+.flats-list-heading {
+    color: #f19116;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Bree Serif";
+}
+
+.flats-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.flat-image {
+    width: 70px;
+    height: 155px;
+}
+
+.flat-cards-text-container {
+    padding: 8px;
+}
+
+.flat-cards-text-container-heading {
+    color: #0f0e46;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Bree Serif";
+}
+
+.flat-cards-text-container-description {
+    color: #6c6b70;
+    font-size: 12px;
+    font-family: "Bree Serif";
+}
+
+.each-flat-details {}
+
+.flat-detailed-image {
+    width: 100vw;
+}
+
+.flat-detailed-card {
+    background-color: #222222;
+    padding: 20px;
+}
+
+.flat-detailed-card-rent {
+    color: #f19116;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.location-image {
+    height: 23px;
+    width: 25px;
+}
+
+.flat-address {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "Bree Serif";
+
+}
+
+.border-line {
+    border-color: #ffffff;
+    border-width: 2px;
+}
